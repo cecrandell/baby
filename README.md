@@ -4,7 +4,9 @@
 
 ## Baby
 
-[![YouTube](https://img.youtube.com/vi/fLU6xfHWmhw/0.jpg)](https://youtu.be/fLU6xfHWmhw)
+![baby.gif](support/baby.gif)
+
+Find the full demo here on [YouTube](https://youtu.be/fLU6xfHWmhw).
 
 **What does this application do and why?**
 
@@ -36,34 +38,6 @@ Newborn Baby App is divided into the following folders:
 - ios - contains the code for the mobile app for iOS devices (i.e., iPhone, iPad)
 - android - contains the code for the mobile app for Android devices (i.e., Galaxy S5, Surface Duo)
 - gitignore - instructs GitHub to omit any extraneous files, such as node modules
-
-**Step-by-Step on how to run the application**
-
-First clone this app repository to your computer. Open your terminal and navigate to where you would like to download the source code. Then for SSH, type:
-
-```js
-git clone git@github.com:cecrandell/baby.git
-```
-
-Or for HTTPS, type:
-
-```js
-git clone https://github.com/cecrandell/baby.git
-```
-
-Now that you have downloaded the app to your computer, navigate to the root folder and type:
-
-```js
-npm install
-```
-
-After installation, type in the terminal:
-
-```js
-ionic serve
-```
-
-In a few seconds, the mobile app will begin running in your default browser. Be sure to adjust the width of the browser to represent your preferred mobile device.
 
 If you would like to install the mobile app directly onto your device, please do get in touch with the developers - our contact details are provided below.
 
