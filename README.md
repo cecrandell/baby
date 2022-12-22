@@ -4,7 +4,7 @@
 
 ## Baby
 
-![baby.gif](support/baby.gif)
+![baby.gif](public/assets/images/baby.gif)
 
 Find the full demo here on [YouTube](https://youtu.be/fLU6xfHWmhw).
 
