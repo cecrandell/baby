@@ -4,7 +4,13 @@
 
 # Newborn Baby Mobile Application
 
+## Snippet demonstration of the Mobile App
+
 ![baby.gif](public/assets/images/baby.gif)
+
+## Snippet demonstration of the Client App
+
+![client.gif](public/assets/images/client.gif)
 
 Find the full demo here on [YouTube](https://youtu.be/fLU6xfHWmhw).
 
